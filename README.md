@@ -22,7 +22,7 @@
 <a href="https://codepen.io/gatwaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gatwaza" height="30" width="40" /></a>
 <a href="https://twitter.com/robert_gatwaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robert_gatwaza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jean-robert-gatwaza-210375149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jean-robert-gatwaza-210375149/" height="30" width="40" /></a>
-<a href="https://instagram.com/robert_gatwaza" target="blank"><img align="center" src="https://instagram.com/gatwaza_?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr" alt="robert_gatwaza" height="30" width="40" /></a>
+<a href="https://instagram.com/robert_gatwaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robert_gatwaza" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/CEvs3SHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CEvs3SHA" height="30" width="40" /></a>
 </p>
 
