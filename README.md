@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Firewall, Web stack Debugging**
 
-- 💬 Ask me about **CSS,HTML,JS, API, Azure, Cloud Computing**
+- 💬 Ask me about **CSS, HTML,JS, API, Azure, Cloud Computing**
 
 - 📫 How to reach me **gatwazarobert177@gmail.com**
 
 - 📄 Know about my experiences [https://codepen.io/Gatwaza/full/jOxgjRa](https://codepen.io/Gatwaza/full/jOxgjRa)
 
-- ⚡ Fun fact **I have no idea why on earth we are humans out of all other species.**
+- ⚡ Fun fact **I prefer visuals over text.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
