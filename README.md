@@ -1,18 +1,16 @@
 <h2 align="left"> Name is Jean Robert Gatwaza,</h1>
-<h3 align="left"> So, what after this cumulatively intelligent human-machine era? Let's find out! </h3><br><br>
-<img align="left" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
+<h3 align="left"> So, what comes after this cumulatively intelligent human-machine era? Let's find out! </h3><br><br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gatwaza&label=Profile%20views&color=0e75b6&style=flat" alt="gatwaza" /> </p>
 
 - 🔭 I'm currently working on smart VR-humanoid. 
 
-- 🌱 I’m currently learning **Firewall, Web stack Debugging**
+- 🌱 I’m currently learning Arduino
 
-- 💬 Ask me about **CSS, HTML,JS, API, Azure, Cloud Computing**
+- 💬 Ask me about machines being smarter than before
 
 - 📫 How to reach me **gatwazarobert177@gmail.com**
 
-- 📄 Know about my experiences [https://codepen.io/Gatwaza/full/jOxgjRa](https://codepen.io/Gatwaza/full/jOxgjRa)
+- 📄 take an about my experiences (https://www.linkedin.com/in/gatwaza/)
 
 - ⚡ Fun fact **I prefer visuals over text.**
 
