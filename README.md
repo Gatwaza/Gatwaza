@@ -20,8 +20,8 @@
 <h4 align="left"> Azure, Linux, CSS, Docker, Figma, HTML5, JS, MongoDB, MySQL, Py, Jupyter Notebook, Google Collab, c#, c++, Shell, React, Puppet, Arduino, ...</h4>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwaza&show_icons=true&locale=en&layout=compact&theme=black&hide_border=true&bg_color=daa520" alt="gatwaza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwaza&show_icons=true&locale=en&layout=compact&theme=black&hide_border=true&bg_color=A9A9A9" alt="gatwaza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gatwaza&show_icons=true&locale=en&theme=black&hide_border=true&bg_color=808080" alt="gatwaza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gatwaza&show_icons=true&locale=en&theme=black&hide_border=true&bg_color=A9A9A9" alt="gatwaza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwaza&theme=black&hide_border=true&bg_color=808080" alt="gatwaza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwaza&theme=black&hide_border=true&bg_color=A9A9A9" alt="gatwaza" /></p>
