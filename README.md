@@ -5,11 +5,11 @@
 <h2 align="left"> I train models(AI) over and over, for better results. </h2>
 
 
-- 🔭 I'm currently working on smart VR-humanoid. 
+- 🔭 I'm currently working on IK VR-humanoid. 
 
-- 🌱 I’m currently learning Arduino, Reinforcement Learning, Electroencephalography
+- 🌱 I’m currently learning Arduino, Reinforcement Learning, and Electroencephalography.
 
-- 💬 Ask me about machines being smarter than before
+- 💬 Ask me about machines being smarter than before.
 
 - 📫 How to reach me **gatwazarobert177@gmail.com**
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gatwaza&show_icons=true&locale=en&theme=black&hide_border=true&bg_color=daa520" alt="gatwaza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwaza&theme=black&hide_border=true&bg_color=f0e68c" alt="gatwaza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwaza&theme=black&hide_border=true&bg_color=808080" alt="gatwaza" /></p>
