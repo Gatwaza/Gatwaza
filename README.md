@@ -1,6 +1,6 @@
 <h2 align="left"> Name is Jean Robert Gatwaza,</h1>
 <h4 align="left"> So, what comes after this cumulatively intelligent human-machine era? </h4>
-<h4 align="left"> Let's find out! </h4> <br><be>
+<h4 align="left"> Let's find out! </h4>
 
 <h2 align="left"> I train models(AI) over and over, for better results. </h2>
 
