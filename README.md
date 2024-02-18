@@ -1,6 +1,8 @@
 <h2 align="left"> Name is Jean Robert Gatwaza,</h1>
-<h3 align="left"> So, what comes after this cumulatively intelligent human-machine era? </h3>
-<h3 align="left"> Let's find out! </h3> <br><br>
+<h4 align="left"> So, what comes after this cumulatively intelligent human-machine era? </h4>
+<h4 align="left"> Let's find out! </h4> <br><be>
+
+<h2 align="left"> I train models(AI) over and over, for better results. </h2>
 
 
 - 🔭 I'm currently working on smart VR-humanoid. 
@@ -11,11 +13,11 @@
 
 - 📫 How to reach me **gatwazarobert177@gmail.com**
 
-- ⚡ Fun fact **Big fan of Kanye West**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Azure, Linux, CSS, Docker, Figma, HTML5, JS, MongoDB, MySQL, Py, Jupyter Notebook, Google Collab, c#, c++, Shell, React, ...</h4>
+
+<h3 align="left"> Languages and Tools:</h3>
+<h4 align="left"> Azure, Linux, CSS, Docker, Figma, HTML5, JS, MongoDB, MySQL, Py, Jupyter Notebook, Google Collab, c#, c++, Shell, React, Puppet, Arduino, ...</h4>
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwaza&show_icons=true&locale=en&layout=compact&theme=black&hide_border=true&bg_color=daa520" alt="gatwaza" /></p>
