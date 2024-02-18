@@ -1,11 +1,10 @@
-<h2 align="left"> 👋, I'm Jean Robert Gatwaza</h1>
-<h3 align="left"> Advancements in machine intelligence are reshaping human-machine interaction.
-We're entering an era where machines learn, adapt, and interact unprecedentedly.</h3><br><br>
+<h2 align="left"> Name is Jean Robert Gatwaza,</h1>
+<h3 align="left"> So, what after this cumulatively intelligent human-machine era? Let's find out! </h3><br><br>
 <img align="left" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gatwaza&label=Profile%20views&color=0e75b6&style=flat" alt="gatwaza" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gatwaza&label=Profile%20views&color=0e75b6&style=flat" alt="gatwaza" /> </p>
 
-- 🔭 I’m currently working on [System Engineering DevOps](https://github.com/Gatwaza/alu-system_engineering-devops)
+- 🔭 I'm currently working on smart VR-humanoid. 
 
 - 🌱 I’m currently learning **Firewall, Web stack Debugging**
 
