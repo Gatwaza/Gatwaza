@@ -1,5 +1,8 @@
-<h1 align="left"> 👋, I'm Jean Robert Gatwaza</h1>
-<h3 align="center">Well, I .</h3><br><br>
+<h2 align="left"> 👋, I'm Jean Robert Gatwaza</h1>
+<h3 align="left"> That works well for a concise summary:
+
+"Advancements in machine intelligence are reshaping human-machine interaction.
+We're entering an era where machines learn, adapt, and interact in unprecedented ways.".</h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatwaza&label=Profile%20views&color=0e75b6&style=flat" alt="gatwaza" /> </p>
