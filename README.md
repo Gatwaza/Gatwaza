@@ -1,6 +1,6 @@
 <img width="1000" height="500" src="https://drive.google.com/uc?export=view&id=18L4Pz4pRzujahQnLSx-5-pckad50ZJSR">
-<h1 align="center">Sup 👋, I'm Jean Robert Gatwaza</h1>
-<h3 align="center">Well, succintly I am aspiring and passionnate about programming.</h3><br><br>
+<h1 align="center"> 👋, I'm Jean Robert Gatwaza</h1>
+<h3 align="center">Well, I .</h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatwaza&label=Profile%20views&color=0e75b6&style=flat" alt="gatwaza" /> </p>
